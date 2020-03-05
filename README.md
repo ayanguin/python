@@ -10,4 +10,4 @@ CSV,
 Panda, 
 Numpy
 
-# I am using Anaconda to implement this project
+I'm using Anaconda(Spyder) to implement this project
