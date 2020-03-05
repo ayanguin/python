@@ -11,3 +11,4 @@ Panda,
 Numpy
 
 I'm using Anaconda (Spyder) to implement this project
+Stable internet connection is required to run this project.
